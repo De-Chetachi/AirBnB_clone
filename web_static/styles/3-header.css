@@ -1,6 +1,15 @@
 header {
-	background-color: #000000;
+	background-color: #ffffff;
 	height:70px;
 	width:100%;
-	border-bottom: 1px #cccccc;
+	padding-left: 20px;
+	border-bottom: 1px solid #cccccc;
+}
+
+#logo {
+	height: 100%;
+	width: 142px;
+	background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	background-position: center;
 }
