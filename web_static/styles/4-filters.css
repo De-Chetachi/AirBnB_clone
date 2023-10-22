@@ -1,0 +1,25 @@
+/*filter and serach button*/
+
+.filters {
+    height: 70px;
+    width: 100%;
+    background-color:#ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+}
+#search {
+    font-size: 18px;
+    background-color: #ff5a5f;
+    color: #ffffff;
+    height: 48px;
+    text-align: center;
+    width: 20%;
+    border-style: none;
+    border-radius: 4px;
+    float: right;
+    margin-top:11px ;
+    margin-right: 30px;
+}
+#search:hover {
+    opacity: 0.9;
+}
