@@ -60,15 +60,15 @@
     background-position: center;
     display: inline-block;
 }
-#guest {
+.guest {
     background-image: url("../images/guest.png");
 }
 
-#bath {
+.bath {
     background-image: url("../images/bath.png");
 }
 
-#bed {
+.bed {
     background-image: url("../images/bed.png");
 }
 
