@@ -52,6 +52,9 @@
 .locations:hover .popover, .amenities:hover .popover {
     display: block;
 }
+li {
+    font-weight: bold;
+}
 
 li h2 {
     font-weight: 800px;
